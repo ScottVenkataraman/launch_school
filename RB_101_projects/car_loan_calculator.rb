@@ -1,9 +1,9 @@
 =begin 
 Build a mortgage or car payment calculator. 
   Given the following information:
-    -the loan amount
-    -the Annual Percentage Rate (APR)
-    -the loan duration
+    -The loan amount
+    -The Annual Percentage Rate (APR)
+    -The loan duration
   Return the monthly payment amount. 
 
   From the above, you'll need to calculate the following things:
